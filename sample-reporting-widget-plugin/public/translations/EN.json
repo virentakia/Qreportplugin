@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "summary": "App Plugin Language Strings - EN"
+  },
+  "strings": {
+    "name": {
+      "text": "Sample Reporting Widget Plugin",
+      "context": "Plugin name"
+    },
+    "description": {
+      "text": "Custom sunburst chart using d3",
+      "context": "Displayed when listing plugin"
+    },
+    "configurationPanel.metric": {
+      "text": "Metric"
+    },
+    "configurationPanel.removeSelection": {
+      "text": "Remove selection"
+    },
+    "configurationPanel.selectAField": {
+      "text": "Select a field"
+    },
+    "configurationPanel.selectAnOption": {
+      "text": "Select an option"
+    },
+    "configurationPanel.dimensionLevel1": {
+      "text": "1st Dimension Level"
+    },
+    "configurationPanel.dimensionLevel2": {
+      "text": "2nd Dimension Level"
+    },
+    "configurationPanel.dimensionLevel3": {
+      "text": "3rd Dimension Level"
+    },
+    "configurationPanel.arcLevelsVisibility": {
+      "text": "# of Arc Levels Visible"
+    },
+    "configurationPanel.labelLevelsVisibility": {
+      "text": "# of Label Levels Visible"
+    },
+    "configurationPanel.dataConfigurationHeading": {
+      "text": "Data Configuration"
+    },
+    "configurationPanel.viewConfigurationHeading": {
+      "text": "View Configuration"
+    }
+  }
+}
